@@ -3,3 +3,5 @@ proficiency of using FPGA with (applying of constraints, Timing Analysis, models
 
 
 REF. MODERN DIGITAL DESIGNS WITH EDA, VHDL AND FPGA (JIEN-CHUNG LO), INTEL FPGA ACADEMY
+
+Schedule to upgrade to DE1-SoC 
